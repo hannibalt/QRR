@@ -1,0 +1,8 @@
+C:\Users\Hannibal\Documents\GitHub\QRR\_QRRSolution\Repository\bin\Debug\netcoreapp3.1\Repository.deps.json
+C:\Users\Hannibal\Documents\GitHub\QRR\_QRRSolution\Repository\bin\Debug\netcoreapp3.1\Repository.dll
+C:\Users\Hannibal\Documents\GitHub\QRR\_QRRSolution\Repository\bin\Debug\netcoreapp3.1\Repository.pdb
+C:\Users\Hannibal\Documents\GitHub\QRR\_QRRSolution\Repository\obj\Debug\netcoreapp3.1\Repository.csprojAssemblyReference.cache
+C:\Users\Hannibal\Documents\GitHub\QRR\_QRRSolution\Repository\obj\Debug\netcoreapp3.1\Repository.AssemblyInfoInputs.cache
+C:\Users\Hannibal\Documents\GitHub\QRR\_QRRSolution\Repository\obj\Debug\netcoreapp3.1\Repository.AssemblyInfo.cs
+C:\Users\Hannibal\Documents\GitHub\QRR\_QRRSolution\Repository\obj\Debug\netcoreapp3.1\Repository.dll
+C:\Users\Hannibal\Documents\GitHub\QRR\_QRRSolution\Repository\obj\Debug\netcoreapp3.1\Repository.pdb
