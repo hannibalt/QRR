@@ -1,0 +1,8 @@
+C:\Users\Hannibal\Documents\GitHub\QRR\_QRRSolution\Entitiy\bin\Debug\netcoreapp3.1\Entitiy.deps.json
+C:\Users\Hannibal\Documents\GitHub\QRR\_QRRSolution\Entitiy\bin\Debug\netcoreapp3.1\Entitiy.dll
+C:\Users\Hannibal\Documents\GitHub\QRR\_QRRSolution\Entitiy\bin\Debug\netcoreapp3.1\Entitiy.pdb
+C:\Users\Hannibal\Documents\GitHub\QRR\_QRRSolution\Entitiy\obj\Debug\netcoreapp3.1\Entitiy.csprojAssemblyReference.cache
+C:\Users\Hannibal\Documents\GitHub\QRR\_QRRSolution\Entitiy\obj\Debug\netcoreapp3.1\Entitiy.AssemblyInfoInputs.cache
+C:\Users\Hannibal\Documents\GitHub\QRR\_QRRSolution\Entitiy\obj\Debug\netcoreapp3.1\Entitiy.AssemblyInfo.cs
+C:\Users\Hannibal\Documents\GitHub\QRR\_QRRSolution\Entitiy\obj\Debug\netcoreapp3.1\Entitiy.dll
+C:\Users\Hannibal\Documents\GitHub\QRR\_QRRSolution\Entitiy\obj\Debug\netcoreapp3.1\Entitiy.pdb
